@@ -1,0 +1,22 @@
+body {
+    background-color:black ;
+}
+
+
+#titulo {
+    background-color: gray;
+    text-align: center;
+    border: 3px outset red;
+}
+
+#imagem {
+    text-align: end;
+}
+
+#imagem2 {
+    text-align: end;
+}
+
+#imagem3 {
+    text-align: end;
+}
